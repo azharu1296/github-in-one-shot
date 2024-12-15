@@ -1,0 +1,48 @@
+Id CommandLine
+  -- -----------
+   1 paython testing.py
+   2 python testin.py
+   3 python testing.py
+   4 clear
+   5 ls
+   6 ls -l
+   7 ls-l
+   8 ls
+   9 clear
+  10 git init
+  11 ls
+  12 ls -a
+  13 ls
+  14 git init
+  15 git status
+  16 ls
+  17 git status
+  18 git add testing.py
+  19 ls
+  20 git status
+  21 git rm --cached testing.py
+  22 git status
+  23 git add testing.py
+  24 git status
+  25 git commit -m (testing file is commited)
+  26 git commit -m "testing file is added"
+  27 ls
+  28 git status
+  29 git commit -m "done"
+  30  git config --global user.email "azharshaikh1296@gmail.com"
+  31  git config --global user.name "Azhar Shaikh"
+  32 ls
+  33 git status
+  34 git commit -m "done"
+  35 git ststus
+  36 git status
+  37 git rm testing.py
+  38 ls
+  39 git recover testing.py
+  40 git restore testing.py
+  41 git restore testing.py
+  42 git status
+  43 git commit -m "testing file is added to git"
+  44 clear
+  45 histroy
+  46 histroy
